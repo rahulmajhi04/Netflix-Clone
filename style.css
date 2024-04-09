@@ -225,3 +225,6 @@ footer{
 .netflix-ind{
     margin-bottom: 55px;
 }
+.visibility{
+    display: none;
+}
